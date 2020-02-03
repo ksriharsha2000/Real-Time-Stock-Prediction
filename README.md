@@ -12,4 +12,4 @@ The additional component to be downloaded is CHROME DRIVER for opening required 
 
 Link:https://towardsdatascience.com/predicting-stock-prices-with-python-ec1d0c9bece1
 
-Problem: IEXException when trying to read the historical data from Yahoo finance
+Problem: IEXAuthenticationError when trying to read the historical data from Yahoo finance
