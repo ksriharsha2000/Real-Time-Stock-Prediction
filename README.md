@@ -13,3 +13,8 @@ The additional component to be downloaded is CHROME DRIVER for opening required 
 Link:https://towardsdatascience.com/predicting-stock-prices-with-python-ec1d0c9bece1
 
 Problem: IEXAuthenticationError when trying to read the historical data from Yahoo finance
+It read like:
+
+
+An exception of type IEXAuthenticationError occurred. Arguments:
+('The IEX Cloud API key must be provided either through the token variable or through the environmental variable IEX_TOKEN.',)
